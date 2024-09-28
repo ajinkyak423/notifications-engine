@@ -56,6 +56,7 @@ func (n *api) Send(obj map[string]interface{}, templates []string, dest services
 	}
 
 	vars := n.getVars(obj, dest)
+	fmt.Printf("vars: %v", vars)
 
 	in := make(map[string]interface{})
 	for k := range vars {
