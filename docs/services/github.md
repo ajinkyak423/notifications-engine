@@ -9,7 +9,7 @@ The GitHub notification service changes commit status using [GitHub Apps](https:
 - `privateKey` - the app private key
 - `enterpriseBaseURL` - optional URL, e.g. https://git.example.com/api/v3
 
-> ⚠️ _NOTE:_ Specifying `/api/v3` in the `enterpriseBaseURL` is required until [argoproj/notifications-engine#205](https://github.com/argoproj/notifications-engine/issues/205) is resolved.
+> ⚠️ _NOTE:_ Specifying `/api/v3` in the `enterpriseBaseURL` is required until [argoproj/notifications-engine#205](https://github.com/ajinkyak423/notifications-engine/issues/205) is resolved.
 
 ## Configuration
 

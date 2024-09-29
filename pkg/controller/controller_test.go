@@ -22,11 +22,11 @@ import (
 	kubetesting "k8s.io/client-go/testing"
 	"k8s.io/client-go/tools/cache"
 
-	notificationApi "github.com/argoproj/notifications-engine/pkg/api"
-	"github.com/argoproj/notifications-engine/pkg/mocks"
-	"github.com/argoproj/notifications-engine/pkg/services"
-	"github.com/argoproj/notifications-engine/pkg/subscriptions"
-	"github.com/argoproj/notifications-engine/pkg/triggers"
+	notificationApi "github.com/ajinkyak423/notifications-engine/pkg/api"
+	"github.com/ajinkyak423/notifications-engine/pkg/mocks"
+	"github.com/ajinkyak423/notifications-engine/pkg/services"
+	"github.com/ajinkyak423/notifications-engine/pkg/subscriptions"
+	"github.com/ajinkyak423/notifications-engine/pkg/triggers"
 )
 
 var (

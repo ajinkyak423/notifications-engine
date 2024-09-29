@@ -5,7 +5,7 @@ import (
 
 	"github.com/Masterminds/sprig/v3"
 
-	"github.com/argoproj/notifications-engine/pkg/services"
+	"github.com/ajinkyak423/notifications-engine/pkg/services"
 )
 
 type Service interface {

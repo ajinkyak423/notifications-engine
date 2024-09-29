@@ -1,6 +1,6 @@
 package mocks
 
-import "github.com/argoproj/notifications-engine/pkg/api"
+import "github.com/ajinkyak423/notifications-engine/pkg/api"
 
 type FakeFactory struct {
 	Api    api.API

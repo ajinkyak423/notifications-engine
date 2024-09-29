@@ -4,9 +4,9 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/argoproj/notifications-engine/pkg/triggers"
+	"github.com/ajinkyak423/notifications-engine/pkg/triggers"
 
-	"github.com/argoproj/notifications-engine/pkg/services"
+	"github.com/ajinkyak423/notifications-engine/pkg/services"
 
 	"github.com/stretchr/testify/assert"
 )

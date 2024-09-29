@@ -8,7 +8,7 @@ import (
 	"gomodules.xyz/notify"
 	"gomodules.xyz/notify/smtp"
 
-	"github.com/argoproj/notifications-engine/pkg/util/text"
+	"github.com/ajinkyak423/notifications-engine/pkg/util/text"
 )
 
 type EmailNotification struct {

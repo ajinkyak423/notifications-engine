@@ -4,7 +4,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/argoproj/notifications-engine/docs/services"
+	"github.com/ajinkyak423/notifications-engine/docs/services"
 )
 
 // CopyServicesDocs copies markdown files with the services docs to the target directory and returns list of copied files

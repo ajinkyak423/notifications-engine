@@ -20,7 +20,7 @@ import (
 	"k8s.io/client-go/tools/cache"
 	"sigs.k8s.io/yaml"
 
-	"github.com/argoproj/notifications-engine/pkg/api"
+	"github.com/ajinkyak423/notifications-engine/pkg/api"
 )
 
 type commandContext struct {
